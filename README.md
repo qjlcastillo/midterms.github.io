@@ -1,1 +1,1 @@
-# midterms.github.io
+# Midterms
